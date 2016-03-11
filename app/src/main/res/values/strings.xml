@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">IntelimentApp</string>
+    <string name="ht_text1">item 1 </string>
+    <string name="ht_text2">item 2 </string>
+    <string name="ht_text3">item 3 </string>
+    <string name="ht_text4">item 4 </string>
+    <string name="ht_text5">item 5 </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_one">One</string>
+    <string name="fragment_two">Two</string>
+    <string name="fragment_three">Three</string>
+    <string name="fragment_four">Four</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_city_map_location">Map</string>
+    <string name="title_activity_Scenario2">Scenario Two</string>
+    <string name="title_activity_Scenario1">Scenario One</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
