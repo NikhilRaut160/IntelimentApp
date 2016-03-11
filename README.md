@@ -15,7 +15,9 @@ Activity Scenario 1
 
 	 5: Three buttons of same size. On clicking any button, the background of buttons are changing.
 
-	 ![Alt Scenario_1](snapshots/Scenario_1.jpg?raw=true "Scenario_1")
+	 <p align="left">
+	  <img src="snapshots/Scenario_1" width="350"/>
+	 </p>
 
 Activity Scenario 2
 
@@ -25,9 +27,10 @@ Activity Scenario 2
 
 	 3: Each item of spinner having lat-long with the hepl of this shown location marker on Google Map from map you can navigate using Google navigation app.
 
-	 ![Alt Scenario_2](snapshots/Scenario_3.jpg?raw=true "Scenario_3")
-	 ![Alt Scenario_2](snapshots/Scenario_2.jpg?raw=true "Scenario_2")
-
+	 <p align="left">
+	  <img src="snapshots/Scenario_3" width="350"/>
+	  <img src="snapshots/Scenario_2" width="350"/>
+	 </p>
 
 Tools/API/libs used:
 
